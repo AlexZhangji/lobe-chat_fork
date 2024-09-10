@@ -1,5 +1,6 @@
 <div align="center"><a name="readme-top"></a>
 
+# Force a vercel rebuild. 
 [![][image-banner]][vercel-link]
 
 <h1>Lobe Chat</h1>
